@@ -20,7 +20,7 @@
 
 // CARA 2 TANPA MEMBUAT VARIABEL BARU
 
-const word = ''
+const word = 'aaddaa'
 
 if (typeof word === "string") {
   let isPalindrome = true
